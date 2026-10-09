@@ -1,0 +1,2 @@
+# AstraBrowser
+AstraBrowser — проект браузера.
